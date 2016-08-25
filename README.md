@@ -34,4 +34,4 @@ The time to vote : From Sep 26 (Mon) to Oct 2 (Mon).
 
 Note: Sessions will be selected by JJUG staffs referring to the survey results, so the number of votes does not mean the result directly.
 
-It is okay to apply more than once, but only one can be adopted per person.
+It is okay to apply more than once, but only one session can be adopted per person.
