@@ -57,3 +57,9 @@
 ### ⑪講演者紹介 / Bio
 
 ### ⑫コミュニティ活動、BlogのURL、Twitterアカウントなど / Activities for OSS communities, blog URL, Twitter account etc.
+
+***
+
+## 非公開情報 / Private information
+
+- [ ] Subimit [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform)?
