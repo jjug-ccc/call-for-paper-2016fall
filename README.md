@@ -9,7 +9,7 @@ JJUG CCC 2016 FallのCall for Papers応募・投票用 / JJUG CCC 2016 Call for 
 English version follows.  
 
 12月3日(土)に行われるJJUG CCC 2016 Fall における講演者情報およびセッションの詳細について**issue作成・ラベル付与**をしてください。  
-各項目の記入方法はwiki([リンク](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply))をご覧ください。  
+issue作成方法・各項目の記入方法はwiki([リンク](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply))をご覧ください。  
 また、**Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))のご記入**も合わせてお願いいたします。 
 **締め切り** : **9月23日(金)** / Deadline : Sep 23 (Fri)  
 
