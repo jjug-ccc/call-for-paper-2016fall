@@ -8,12 +8,12 @@
 
 ***
 
-## ④講演者情報 / Speaker
+## 講演者情報 / Speaker
 
-### ⑤氏名 / Name
+### ④氏名 / Name
 
-### ⑥所属 / Company or Communities
+### ⑤所属 / Company or Communities
 
-### ⑦講演者紹介 / Bio
+### ⑥講演者紹介 / Bio
 
-### ⑧コミュニティ活動、BlogのURL、Twitterアカウントなど / Activities for OSS communities, blog URL, Twitter account etc.
+### ⑦コミュニティ活動、BlogのURL、Twitterアカウントなど / Activities for OSS communities, blog URL, Twitter account etc.
