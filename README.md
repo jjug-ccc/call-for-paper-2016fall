@@ -9,7 +9,7 @@ JJUG CCC 2016 FallのCall for Papers応募・投票用 / JJUG CCC 2016 Call for 
 English version follows.  
 
 12月3日(土)に行われるJJUG CCC 2016 Fall における講演者情報およびセッションの詳細について**issue作成・ラベル付与**をしてください。  
-また、Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))のご記入も合わせてお願いいたします。  
+また、**Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))のご記入**も合わせてお願いいたします。  
 **締め切り** : **9月23日(金)** / Deadline : Sep 23 (Fri)  
 
 ### 重要  
@@ -23,7 +23,7 @@ CfPは募集終了後に公開し、投票により希望セッションのア�
 ---
 
 Please **create an issue** writing about you and your session on JJUG CCC 2016 Fall on Dec 3 (Sat), and **put suitable labels**.  
-Also, fill in the blanks on Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform)).  
+Also, **fill in the blanks on Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))**.  
 
 ### Important
 
