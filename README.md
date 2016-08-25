@@ -23,7 +23,7 @@ CfPは募集終了後に公開し、投票により希望セッションのア�
 ---
 
 Please **create an issue** writing about you and your session on JJUG CCC 2016 Fall on Dec 3 (Sat), and **put suitable labels**.  
-Also, **fill in the blanks on Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))**.  
+Also, **fill in the blanks on Google Forms([link](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))**.  
 
 ### Important
 
