@@ -6,6 +6,8 @@
 
 ### 事後に資料を公開されますか？ / Will you make the slide available after the conference?
 
+***
+
 ## 講演者情報 / Speaker
 
 ### 氏名 / Name
