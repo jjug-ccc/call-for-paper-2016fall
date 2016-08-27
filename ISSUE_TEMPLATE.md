@@ -12,7 +12,7 @@
 - [ ] Java VMs
 - [ ] JVM Languages
 - [ ] Development and operations
-- [ ] その他:
+- [ ] その他 (Others): [Fill in this space]
 
 ### ④難易度 / Level
 
