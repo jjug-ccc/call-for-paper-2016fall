@@ -7,6 +7,7 @@ JJUG CCC 2016 FallのCall for Papers応募・投票用 / JJUG CCC 2016 Call for 
 English version follows.  
 
 12月3日(土)に行われるJJUG CCC 2016 FallのCfPを次の手順でご提出ください。  
+
 1. **issue作成** : 講演者およびセッション情報をご記入ください。提出方法はwiki([リンク](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply))をご覧ください。  
 1. **Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))記入** : 登壇に際し必要な非公開情報をご記入ください。JJUG幹事のみが閲覧します。   
 **締め切り** : **9月23日(金)** / Deadline : Sep 23 (Fri)  
@@ -22,6 +23,7 @@ CfPは募集終了後に公開し、投票により希望セッションのア�
 ---
 
 This is an application form for JJUG CCC 2016 Fall on Dec 3 (Sat). Please follow the procedure below.   
+
 1. **Create an issue** written about you and your session. How to apply? You can find it on wiki([link](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply)).  
 1. **Fill in the blanks on Google Forms([link](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))**. This is private info only JJUG staff can see.   
 
