@@ -10,7 +10,7 @@ English version follows.
 
 1. **issue作成** : 講演者およびセッション情報をご記入ください。提出方法はwiki([リンク](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply))をご覧ください。  
 1. **Google Forms([リンク](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))記入** : 登壇に際し必要な非公開情報をご記入ください。JJUG幹事のみが閲覧します。   
-**締め切り** : **9月23日(金)**  
+**締め切り** : **9月25日(金)**  
 
 ### 重要  
 CfPは募集終了後に公開し、投票により希望セッションのアンケートを実施いたします。issueに記載の内容は公開されていますのでご注意下さい。  
@@ -26,7 +26,7 @@ This is an application form for JJUG CCC 2016 Fall on Dec 3 (Sat). Please follow
 
 1. **Create an issue** written about you and your session. How to apply? You can find it on wiki([link](https://github.com/jjug-ccc/call-for-paper-2016fall/wiki/%E5%BF%9C%E5%8B%9F%E6%96%B9%E6%B3%95---How-to-apply)).  
 1. **Fill in the blanks on Google Forms([link](https://docs.google.com/forms/d/e/1FAIpQLSfUlp3rSovSfP6UHem8detnFoyf85WUdVJ-VSPl1uQ33BCf8Q/viewform))**. This is private info only JJUG staff can see.   
-**Deadline** : **Sep 23 (Fri)**  
+**Deadline** : **Sep 25 (Sun)**  
 
 ### Important
 
